@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634540814 source:d:\codeblocks\projects\semicalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
